@@ -4,6 +4,7 @@ gitignored/
 .RData
 .Ruserdata
 .qmd
+*.gitignore
 # R local files
 *.Rproj.user*
 *.Rhistory
