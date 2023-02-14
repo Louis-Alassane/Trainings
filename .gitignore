@@ -23,8 +23,6 @@ gitignored/
 # Configuration/initialisation file
 *.ini
 # Binary files
-*.doc
-*.docx
 *.jpeg
 *.jpg
 *.ods
