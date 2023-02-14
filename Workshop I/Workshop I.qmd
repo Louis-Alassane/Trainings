@@ -1,0 +1,104 @@
+---
+title: "Workshop I"
+author: "Louis-Alassane Cassaignard-Viaud"
+toc: false
+format:
+  revealjs:
+    logo: images/CRRC_logo.png
+    footer: "Survey Process 2.0"
+    date: last-modified 
+    date-format: long
+    preview-links: true
+    smaller: true
+self-contained: true
+---
+
+# Workshops Structure
+
+::: panel-tabset
+
+# SurveyCTO
+
+-   **Workshop I: Intro and common survey language**
+-   Workshop II: Monitoring and quality checks - Thursday 16/02
+-   Workshop III: Data Cleaning - Tuesday 21/02
+-   Workshop IV: Output and analyses - Thursday 23/02
+
+# Quarto/Advanced R
+
+-   Workshop V: Basics of Quarto - Tuesday 28/02
+-   Workshop VI: Visualisations - Thursday 02/03
+-   Workshop VII: Useful Packages to know - Tuesday 07/03
+-   Workshop VIII: Additional Features - Thursday 09/03
+:::
+
+# The Process
+
+![](images/flowchart.png)
+
+# Before the field
+
+::: fragment
+-   Update enumerator's list
+:::
+
+::: fragment
+-   Translate QQ to our common language
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+-   Tabletting
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+-   Workshop
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+That's it
+:::
+
+## Deal with enumerators
+
+::: panel-tabset
+# Theory
+
+ID - YYMMXX
+
+> Year they were recruited , Month they were recruited, Unique Number (01,02,03,04), should be in order they join
+
+1.  Create/Update Enumerator's List -
+2.  Generate QR codes
+3.  Give their ID/QR codes to enumerators
+4.  Transmit ID's to admin (for contracts)
+
+During/After the field:
+
+-   Update list with blacklisted people (add B to their ID's)
+
+# Practice
+
+1.  Create a "fake enumerators" list
+2.  For the sake of Workshop fill the list as if people joined on different months/year
+3.  Update the "Admin" list
+4.  Generate QR codes (tip: use an extension)
+:::
+
+## Create a Survey
+
+::: panel-tabset
+## Theory
+
+Use a common language
+
+Commonalities:
+
+1.  Questionnaires/IDs
+2.  Question Types
+3.  Recurrent Variables
+4.  Recurrent Values
+
+## Practice
+
+Translate "NDI_Modified" using our new language
+:::

@@ -13,6 +13,7 @@ gitignored/
 *.Rd
 *.Rcheck*
 *.RData
+
 # Archive files
 *.tar.gz
 *.tar
