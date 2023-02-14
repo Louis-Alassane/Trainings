@@ -63,19 +63,31 @@ That's it
 ::: panel-tabset
 # Theory
 
+::: fragment
 ID - YYMMXX
 
 > Year they were recruited , Month they were recruited, Unique Number (01,02,03,04), should be in order they join
 
-1.  Create/Update Enumerator's List -
-2.  Generate QR codes
-3.  Give their ID/QR codes to enumerators
-4.  Transmit ID's to admin (for contracts)
+:::
 
+::: fragment
+1.  Create/Update Enumerator's List (don't forget projects )
+:::
+::: fragment
+2.  Update Admin list (for contracts)
+:::
+::: fragment
+3.  Generate QR codes
+:::
+::: {.fragment .fade-in-then-semi-out}
+4.  Give their ID/QR codes to enumerators
+:::
+
+::: fragment
 During/After the field:
 
 -   Update list with blacklisted people (add B to their ID's)
-
+:::
 # Practice
 
 1.  Create a "fake enumerators" list
@@ -87,6 +99,7 @@ During/After the field:
 ## Create a Survey
 
 ::: panel-tabset
+
 ## Theory
 
 Use a common language
