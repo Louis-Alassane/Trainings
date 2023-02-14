@@ -1,22 +1,23 @@
-# Training-Material
+# Workshop-Material
 
-Welcome to the repository for the trainings I will run in February-March! 
-Here you can find the documents that we will use during trainings, useful links and the slides of each presentations!
-Below is also the schedule for trainings
+Welcome to the repository for the workshops we will have in February-March! 
+Each workshop has it's own folder, here you can find the documents that we will use during the workshop, and the slides of each presentations!
+
+Below is also the schedule for workshops and some useful links.
 
 ## Schedule
 
 #### SurveyCTO: 
-- Training I: Intro and common survey language - Tuesday 14/02
-- Training II: Monitoring and quality checks - Thursday 16/02
-- Training III: Data Cleaning - Tuesday 21/02
-- Training IV: Output and analyses - Thursday 23/02
+- Workshop I: Intro and common survey language - Tuesday 14/02
+- Workshop II: Monitoring and quality checks - Thursday 16/02
+- Workshop III: Data Cleaning - Tuesday 21/02
+- Workshop IV: Output and analyses - Thursday 23/02
 
 #### Quarto/Advanced R:
-- Training V: Basics of Quarto - Tuesday 28/02
-- Training VI: Visualisations - Thursday 02/03
-- Training VII: Useful Packages to know - Tuesday 07/03
-- Training VIII: Additional Features - Thursday 09/03
+- Workshop V: Basics of Quarto - Tuesday 28/02
+- Workshop VI: Visualisations - Thursday 02/03
+- Workshop VII: Useful Packages to know - Tuesday 07/03
+- Workshop VIII: Additional Features - Thursday 09/03
 
 ## Links
 
