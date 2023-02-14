@@ -16,7 +16,6 @@ self-contained: true
 # Workshops Structure
 
 ::: panel-tabset
-
 # SurveyCTO
 
 -   **Workshop I: Intro and common survey language**
@@ -64,21 +63,23 @@ That's it
 # Theory
 
 ::: fragment
-*int* - YYMMXX
+**int** - YYMMXX
 
 > Year they were recruited , Month they were recruited, Unique Number (01,02,03,04), should be in order they join
-
 :::
 
 ::: fragment
 1.  Create/Update Enumerator's List (don't forget projects )
 :::
+
 ::: fragment
 2.  Update Admin list (for contracts)
 :::
+
 ::: fragment
 3.  Generate QR codes
 :::
+
 ::: {.fragment .fade-in-then-semi-out}
 4.  Give their ID/QR codes to enumerators
 :::
@@ -88,6 +89,7 @@ During/After the field:
 
 -   Update list with blacklisted people (add B to their ID's)
 :::
+
 # Practice
 
 1.  Create a "fake enumerators" list
@@ -99,7 +101,6 @@ During/After the field:
 ## Create a Survey
 
 ::: panel-tabset
-
 ## Theory
 
 Use a common language
@@ -113,5 +114,11 @@ Commonalities:
 
 ## Practice
 
-Translate "NDI_Modified" using our new language
+-   Translate "NDI_Modified" using our new language
 :::
+
+## Final Request
+
+Please take the time to go through the surveyCTO documentation related to your part of the survey process ! We need to make sure that we don't miss out on useful features!
+
+**-\>** Link is on github
