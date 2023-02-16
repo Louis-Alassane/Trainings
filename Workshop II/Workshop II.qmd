@@ -1,0 +1,170 @@
+---
+title: "Workshop II"
+author: "Louis-Alassane Cassaignard-Viaud"
+toc: false
+format:
+  revealjs:
+    logo: images/CRRC_logo.png
+    footer: "Survey Process 2.0"
+    date: last-modified 
+    date-format: long
+    preview-links: true
+    smaller: true
+    self-contained: true
+---
+
+# Workshops Structure {auto-animate="true"}
+
+::: panel-tabset
+# SurveyCTO
+
+::: {style="color: lightgrey;"}
+-   Workshop I: Intro and common survey language
+:::
+-   **Workshop II: Monitoring and quality checks**
+-   Workshop III: Data Cleaning - Tuesday 21/02
+-   Workshop IV: Output and analyses - Thursday 23/02
+
+# Quarto/Advanced R
+
+-   Workshop V: Basics of Quarto - Tuesday 28/02
+-   Workshop VI: Visualisations - Thursday 02/03
+-   Workshop VII: Useful Packages to know - Tuesday 07/03
+-   Workshop VIII: Additional Features - Thursday 09/03
+:::
+
+# The Process
+
+![](images/flowchart.png)
+
+# During the field
+
+::: fragment
+1.   Deciding/Setting Workflow
+:::
+
+::: fragment
+2.   Set Quality Checks
+:::
+
+::: fragment
+3.   Monitor incoming data
+:::
+
+::: {.fragment style="color: lightgrey;"}
+4. Clean the data "on the spot"   
+:::
+
+## Automatic Quality Checks
+
+::: panel-tabset
+
+# Theory
+
+::: fragment
+
+1. Create a workflow and set quality checks
+
+:::
+
+::: fragment
+
+2. SurveyCTO checks all incoming submissions
+
+:::
+
+::: fragment
+
+3. SurveyCTO flags problematic surveys
+
+:::
+
+
+# Practice
+
+Use "TEST - WORKSHOP_Final"
+
+::: fragment
+1. Turn on and set workflow on your form 
+:::
+
+::: fragment
+
+2. Set Quality Checks settings
+
+:::
+
+::: fragment
+
+3. Set Specific Quality Checks
+Suggestions: Frequency, Outliers
+
+:::
+:::
+
+## Monitor Data
+
+::: panel-tabset
+
+## Theory
+
+::: fragment
+
+1. Create monitor(s)
+:::
+::: fragment
+
+2. Summarize relevant data
+:::
+::: fragment
+
+3. View data (On a daily basis!Please!)
+:::
+
+## Practice
+
+Use "AIP_conjoint 2022-Final"
+
+::: fragment
+1. Create an interviewer monitor
+:::
+
+::: fragment
+
+2. Set which data to summarize
+
+Suggested data: duration, duration by int, interviews per day per interviewer, demographics by interviewer
+
+:::
+
+::: fragment
+
+3. Create a data/submissions monitor
+
+:::
+
+::: fragment
+
+4. Set which data to summarize
+
+Suggested data: content questions, relevant submissions
+
+:::
+
+::: fragment
+
+5. Remove outliers to make summaries useful
+
+:::
+:::
+
+
+## Final Notes
+
+Please take the time to go through the surveyCTO documentation related to your part of the survey process ! We need to make sure that we don't miss out on useful features!
+
+**--> Link is on github**
+
+More functionalities are coming (own dashboards etc ...). Please tell me if you have requests!
+
+I will organise a workshop when they are ready!
